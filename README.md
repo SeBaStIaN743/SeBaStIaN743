@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeBaStIaN743
-- 👀 I’m interested in MERN stack
-- 🌱 I’m currently learning React and Firebase
+- 👀 I’m interested in SvelteKit and Go Fiber
+- 🌱 I’m currently learning SvelteKit and Go Fiber
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (kimsomyong8@gmail.com)
 
