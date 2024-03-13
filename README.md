@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeBaStIaN743
-- 👀 I’m interested in SvelteKit and Go Fiber
-- 🌱 I’m currently learning SvelteKit and Go Fiber
+- 👀 I’m interested in AdonisJS and Software Testing
+- 🌱 I’m currently learning AdonisJS and Software Testing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (kimsomyong8@gmail.com)
 
